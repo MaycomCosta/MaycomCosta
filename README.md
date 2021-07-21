@@ -33,7 +33,19 @@
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3>📫&nbsp;Connect with me:</h3> 
 
+
+<a href="https://www.instagram.com/maycomcosta_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
+  <a href = "mailto:Maycom19costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c5221e?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:Maycom19costa@gmail.com" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/maycom-costa-aa4491211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  [![GitHub maycomCosta]( https://img.shields.io/github/followers/pedroedues?label=follow&style=for-the-badge&logo=github)](https://github.com/MaycomCosta)
+  
 [![Linkedin: maycomCosta](https://img.shields.io/badge/-maycomcosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycom-costa-aa4491211/)](https://www.linkedin.com/in/maycom-costa-aa4491211/)
-[![Gmail Badge](https://img.shields.io/badge/-Maycom19costa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Maycom19costa@gmail.com)](mailto:Maycom19costa@gmail.com)
-[![maycomCosta]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/MaycomCosta)
+
+
