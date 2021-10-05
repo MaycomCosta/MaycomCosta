@@ -10,9 +10,9 @@
 <p>
   <a href="https://www.instagram.com/maycomcosta_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/QXvvUBmTSj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
-  <a href = "mailto:Maycom19costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c5221e?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:Maycom19costa@gmail.com" target="_blank"></a>
+  <a href="mailto:Maycom19costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c5221e?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:Maycom19costa@gmail.com" target="_blank"></a>
   
   <a href="https://www.linkedin.com/in/maycom-costa-aa4491211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
