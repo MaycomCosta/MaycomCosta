@@ -1,42 +1,14 @@
+### Hi there, I'm Maycom! 👋
+
+<p>👩‍💻 &nbsp; I'm from São Paulo in Brazil</p>
+<p>🎓 &nbsp; Studying development with Javascript at <a href="https://dashboard.kiwify.com.br/courses/" target="_blank">CODECLUB</a></p>
+<p>💼 &nbsp; Goals: Get a job in programming area, and be a great Fullstack Dev</p>
 
 ![](https://komarev.com/ghpvc/?username=MaycomCosta&color=006bed)
 
-<h3> &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando o **CODECLUB**
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
-
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
-
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/MaycomCosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaycomCosta&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-<h3>📫&nbsp;Connect with me:</h3> 
-
-
-<a href="https://www.instagram.com/maycomcosta_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### 🤝 Connect with me
+<p>
+  <a href="https://www.instagram.com/maycomcosta_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
@@ -45,4 +17,23 @@
   <a href="https://www.linkedin.com/in/maycom-costa-aa4491211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   [![GitHub maycomCosta]( https://img.shields.io/github/followers/pedroedues?label=follow&style=for-the-badge&logo=github)](https://github.com/MaycomCosta)
+</p>
 
+### 🚀 My Skills
+
+<p>
+  <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></code>
+   <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+  <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
+</p>
+
+<br>
+
+<a href="https://github.com/MaycomCosta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaycomCosta&theme=dracula&hide_langs_below=1" alt="Maycom Costa github stats"/>
+</a>
+
+<a href="https://github.com/MaycomCosta">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaycomCosta&theme=dracula&show_icons=true" alt="Kauã Marangoni github stats"/>
+</a>
