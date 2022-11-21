@@ -1,7 +1,7 @@
 ### Hi there, I'm Maycom! 👋
 
 <p>👩‍💻 &nbsp; I'm from São Paulo in Brazil</p>
-<p>🎓 &nbsp; Studying development with Javascript at <a href="https://dashboard.kiwify.com.br/courses/" target="_blank">CODECLUB</a></p>
+<p>🎓 &nbsp; Studying development with Javascript at <a href="https://plataforma.devclub.com.br/auth/login?redirect=/area/vitrine" target="_blank">DEVCLUB</a></p>
 <p>💼 &nbsp; Goals: Get a job in programming area, and be a great Fullstack Dev</p>
 
 ![](https://komarev.com/ghpvc/?username=MaycomCosta&color=006bed)
